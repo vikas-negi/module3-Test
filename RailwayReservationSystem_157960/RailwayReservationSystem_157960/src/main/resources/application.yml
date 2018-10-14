@@ -1,0 +1,7 @@
+spring:
+   data:
+      mongodb:
+          uri:mongodb:// 127.0.0.1:60679
+            host:localhost
+              port:60679
+              database:RRdb
